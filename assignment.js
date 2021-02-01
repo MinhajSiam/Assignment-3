@@ -69,4 +69,4 @@ function megaFriend(name) {
     return bigName;
 }
 
-var names = ["jahid", "william", "liam", "Benjamin", "jackson"];
+var names = ["Minhajur", "Rahman", "Siam", "Minhaj_Siam"];
